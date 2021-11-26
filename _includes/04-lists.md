@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+- Add Logos
+- Add DevOps Tools
+  - Build
+  - Deploy
+  - Release
+  - Production
+- Certification
